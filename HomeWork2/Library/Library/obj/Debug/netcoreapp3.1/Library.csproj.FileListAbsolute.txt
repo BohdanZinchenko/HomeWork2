@@ -1,0 +1,9 @@
+D:\PMAcademy\HomeWork_2\Library\Library\bin\Debug\netcoreapp3.1\Library.deps.json
+D:\PMAcademy\HomeWork_2\Library\Library\bin\Debug\netcoreapp3.1\Library.dll
+D:\PMAcademy\HomeWork_2\Library\Library\bin\Debug\netcoreapp3.1\Library.pdb
+D:\PMAcademy\HomeWork_2\Library\Library\obj\Debug\netcoreapp3.1\Library.csprojAssemblyReference.cache
+D:\PMAcademy\HomeWork_2\Library\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfoInputs.cache
+D:\PMAcademy\HomeWork_2\Library\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfo.cs
+D:\PMAcademy\HomeWork_2\Library\Library\obj\Debug\netcoreapp3.1\Library.csproj.CoreCompileInputs.cache
+D:\PMAcademy\HomeWork_2\Library\Library\obj\Debug\netcoreapp3.1\Library.dll
+D:\PMAcademy\HomeWork_2\Library\Library\obj\Debug\netcoreapp3.1\Library.pdb

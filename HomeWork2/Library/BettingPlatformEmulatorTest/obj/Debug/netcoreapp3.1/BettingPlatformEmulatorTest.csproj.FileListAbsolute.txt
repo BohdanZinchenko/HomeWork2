@@ -1,0 +1,16 @@
+D:\PMAcademy\HomeWork_2\Library\BettingPlatformEmulatorTest\bin\Debug\netcoreapp3.1\BettingPlatformEmulatorTest.exe
+D:\PMAcademy\HomeWork_2\Library\BettingPlatformEmulatorTest\bin\Debug\netcoreapp3.1\BettingPlatformEmulatorTest.deps.json
+D:\PMAcademy\HomeWork_2\Library\BettingPlatformEmulatorTest\bin\Debug\netcoreapp3.1\BettingPlatformEmulatorTest.runtimeconfig.json
+D:\PMAcademy\HomeWork_2\Library\BettingPlatformEmulatorTest\bin\Debug\netcoreapp3.1\BettingPlatformEmulatorTest.runtimeconfig.dev.json
+D:\PMAcademy\HomeWork_2\Library\BettingPlatformEmulatorTest\bin\Debug\netcoreapp3.1\BettingPlatformEmulatorTest.dll
+D:\PMAcademy\HomeWork_2\Library\BettingPlatformEmulatorTest\bin\Debug\netcoreapp3.1\BettingPlatformEmulatorTest.pdb
+D:\PMAcademy\HomeWork_2\Library\BettingPlatformEmulatorTest\bin\Debug\netcoreapp3.1\Library.dll
+D:\PMAcademy\HomeWork_2\Library\BettingPlatformEmulatorTest\bin\Debug\netcoreapp3.1\Library.pdb
+D:\PMAcademy\HomeWork_2\Library\BettingPlatformEmulatorTest\obj\Debug\netcoreapp3.1\BettingPlatformEmulatorTest.csprojAssemblyReference.cache
+D:\PMAcademy\HomeWork_2\Library\BettingPlatformEmulatorTest\obj\Debug\netcoreapp3.1\BettingPlatformEmulatorTest.AssemblyInfoInputs.cache
+D:\PMAcademy\HomeWork_2\Library\BettingPlatformEmulatorTest\obj\Debug\netcoreapp3.1\BettingPlatformEmulatorTest.AssemblyInfo.cs
+D:\PMAcademy\HomeWork_2\Library\BettingPlatformEmulatorTest\obj\Debug\netcoreapp3.1\BettingPlatformEmulatorTest.csproj.CoreCompileInputs.cache
+D:\PMAcademy\HomeWork_2\Library\BettingPlatformEmulatorTest\obj\Debug\netcoreapp3.1\BettingPlatformEmulatorTest.csproj.CopyComplete
+D:\PMAcademy\HomeWork_2\Library\BettingPlatformEmulatorTest\obj\Debug\netcoreapp3.1\BettingPlatformEmulatorTest.dll
+D:\PMAcademy\HomeWork_2\Library\BettingPlatformEmulatorTest\obj\Debug\netcoreapp3.1\BettingPlatformEmulatorTest.pdb
+D:\PMAcademy\HomeWork_2\Library\BettingPlatformEmulatorTest\obj\Debug\netcoreapp3.1\BettingPlatformEmulatorTest.genruntimeconfig.cache

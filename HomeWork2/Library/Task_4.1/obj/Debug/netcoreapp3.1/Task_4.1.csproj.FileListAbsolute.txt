@@ -1,0 +1,16 @@
+D:\PMAcademy\HomeWork_2\Library\Task_4.1\bin\Debug\netcoreapp3.1\Task_4.1.exe
+D:\PMAcademy\HomeWork_2\Library\Task_4.1\bin\Debug\netcoreapp3.1\Task_4.1.deps.json
+D:\PMAcademy\HomeWork_2\Library\Task_4.1\bin\Debug\netcoreapp3.1\Task_4.1.runtimeconfig.json
+D:\PMAcademy\HomeWork_2\Library\Task_4.1\bin\Debug\netcoreapp3.1\Task_4.1.runtimeconfig.dev.json
+D:\PMAcademy\HomeWork_2\Library\Task_4.1\bin\Debug\netcoreapp3.1\Task_4.1.dll
+D:\PMAcademy\HomeWork_2\Library\Task_4.1\bin\Debug\netcoreapp3.1\Task_4.1.pdb
+D:\PMAcademy\HomeWork_2\Library\Task_4.1\obj\Debug\netcoreapp3.1\Task_4.1.csprojAssemblyReference.cache
+D:\PMAcademy\HomeWork_2\Library\Task_4.1\obj\Debug\netcoreapp3.1\Task_4.1.AssemblyInfoInputs.cache
+D:\PMAcademy\HomeWork_2\Library\Task_4.1\obj\Debug\netcoreapp3.1\Task_4.1.AssemblyInfo.cs
+D:\PMAcademy\HomeWork_2\Library\Task_4.1\obj\Debug\netcoreapp3.1\Task_4.1.csproj.CoreCompileInputs.cache
+D:\PMAcademy\HomeWork_2\Library\Task_4.1\obj\Debug\netcoreapp3.1\Task_4.1.dll
+D:\PMAcademy\HomeWork_2\Library\Task_4.1\obj\Debug\netcoreapp3.1\Task_4.1.pdb
+D:\PMAcademy\HomeWork_2\Library\Task_4.1\obj\Debug\netcoreapp3.1\Task_4.1.genruntimeconfig.cache
+D:\PMAcademy\HomeWork_2\Library\Task_4.1\bin\Debug\netcoreapp3.1\Library.dll
+D:\PMAcademy\HomeWork_2\Library\Task_4.1\bin\Debug\netcoreapp3.1\Library.pdb
+D:\PMAcademy\HomeWork_2\Library\Task_4.1\obj\Debug\netcoreapp3.1\Task_4.1.csproj.CopyComplete
